@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title": "{Green}Yetkili toptime sıralaması:",
+	"toptime_option": "{Blue}{0}. {Green}{1} {Default}- {2} saat {3} dakika.",
+	"toptime_empty": "{Default}Yetkili toptime listesi boş!",
+	"command_error": "!ytop komut hatasi: ",
+	"toptime_reset": "{Green}{0} {Default}Yetkili toptime'ı sıfırladı.",
+	"player_time": "{Default}Yetkili oynama süreniz: {Green}{0} saat {1} dakika.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

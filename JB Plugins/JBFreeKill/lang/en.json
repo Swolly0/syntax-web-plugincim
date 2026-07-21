@@ -1,0 +1,13 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"only_ct": "{White}Bu komutu yalnızca {Blue}CT oyuncuları {White}kullanabilir.",
+	"no_kills": "{White}Hiç mahkum oyuncusu öldürmediniz.",
+	"kill_list_title": "Öldürdüğün T Oyuncuları",
+	"player_removed": "{LightRed}{0} {White}listeden kaldırıldı."
+}

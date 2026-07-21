@@ -1,0 +1,13 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title": "Silahını seç!",
+	"weapon_saved": "{Green}{0} {Default}Silah seçiminiz kaydedildi.",
+	"command_usage": "{Default}Başlangıç silahınızı {Green}!kit {Default}komutu ile seçebilirsiniz.",
+	"permissions": "{Green}CT Silah Menüsü {Red}gardiyanlara özeldir."
+}

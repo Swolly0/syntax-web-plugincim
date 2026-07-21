@@ -1,0 +1,17 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"command_usage": " {White}Komut kullanımı: !epino kod yetki-grubu doku",
+	"epin_available": " {White}Bu epin zaten mevcut. {LightRed}{0}",
+	"epin_created": " {White}Epin başarıyla oluşturuldu. {LightRed}{0}",
+	"permission": " {White}Bu komuta erişiminiz yok.",
+	"epin_usage": " {White}Komut kullanımı: !epin kod",
+	"epin_used": " {White}Epin başarıyla kullanıldı. {Green}Yetki: {0} {Blue}Doku: {1}",
+	"no_have": " {White}Hiç epin oluşturulmamış.",
+	"epin_invalid": " {White}Epin geçersiz."
+}

@@ -1,0 +1,15 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"killed_fail_players": "{Default}İlk geleni kazanamayan oyuncular öldürüldü. {Lime}{0}/{1}",
+	"game_start": " {Green}{0} {Default}ilk {1} oyuncu için ilk gelen oluşturdu.",
+	"command_usage": "{Default}Komut kullanımı: !ilk <ilk gelecek oyuncu sayısı>",
+	"game_stop": "{Green}{0} {Default}ilk geleni durdurdu.",
+	"player_finish_game": "{Olive}{0} {Purple}{1} saniye ile {2}. {Default}olarak bitirdi. {Lime}{3}/{4}",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT {Green}kullanabilir."
+}

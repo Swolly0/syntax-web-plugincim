@@ -1,0 +1,29 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"countdown_title_1": "T Sustum atılmasına son: {0} saniye.",
+	"countdown_title_2": "CT Sustum atılmasına son: {0} saniye.",
+	"countdown_title_3": "D Sustum atılmasına son: {0} saniye.",
+	"countdown_title_4": "Ölü Sustum atılmasına son: {0} saniye.",
+	"countdown_end_time": "Sustumun iptal edilmesine son: {0} saniye.",
+	"game_start_1": "{Green}{0} {Default}{1} saniyelik t sustum oluşturdu.",
+	"command_usage_1": "{LightRed}Komut kullanımı: !tsustum <süre>",
+	"game_start_2": "{Green}{0} {Default}{1} ct ölü sustum oluşturdu.",
+	"command_usage_2": "{LightRed}Komut kullanımı: !ctsustum <süre>",
+	"game_start_3": "{Green}{0} {Default}{1} saniyelik d sustum oluşturdu.",
+	"command_usage_3": "{LightRed}Komut kullanımı: !dsustum <süre>",
+	"game_start_4": "{Green}{0} {Default}{1} saniyelik ölü sustum oluşturdu.",
+	"command_usage_4": "{LightRed}Komut kullanımı: !olusustum <süre>",
+	"game_stop": "{Green}{0} {Default}Sustum'u iptal etti.",
+	"player_win_game_1": "{LightRed}{0} {Default}T Sustum'u {Green}kazandı.",
+	"player_win_game_2": "{LightRed}{0} {Default}CT Sustum'u {Green}kazandı.",
+	"player_win_game_3": "{LightRed}{0} {Default}D Sustum'u {Green}kazandı.",
+	"player_win_game_4": "{LightRed}{0} {Default}Ölü Sustum'u {Green}kazandı.",
+	"weapon_fire": "{LightRed}{0} {Default}ateş etti.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

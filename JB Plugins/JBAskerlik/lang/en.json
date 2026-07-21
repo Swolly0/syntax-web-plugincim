@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"game_start": "{Green}{0} {Default}tarafından askerlik oyunu {Green}başlatıldı.",
+	"game_end": "{Default}asker kaçakları {LightRed}jandarma özel harekatlar {Default}tarafından toplandı.",
+	"command_usage": "{Default}Komut kullanımı: !askerlik <sona kalacak oyuncu sayısı | {0} ve altı>",
+	"game_started": "{Default}askerlik oyunu zaten aktif.",
+	"game_stop": "{Green}{0} {Default}tarafından askerlik oyunu {LightRed}durduruldu.",
+	"player_selected": "{Green}{0} {Default}asker kaçağı olduğu için {LightRed}jandarma özel harekat {Default}tarafından götürüldü.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

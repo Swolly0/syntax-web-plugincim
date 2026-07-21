@@ -1,0 +1,572 @@
+﻿{
+
+  "Products": [
+    {
+      "name": "Primeiro Tenente | Brazilian 1st Battalion",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantn.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "D Squadron Officer | NZSAS",
+      "model_path": "characters/models/ctm_sas/ctm_sas_variantg.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Aspirant | Gendarmerie Nationale",
+      "model_path": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantd.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Seal Team 6 Soldier | NSWC SEAL",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variante.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "3rd Commando Company | KSK",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantk.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Operator | FBI SWAT",
+      "model_path": "characters/models/ctm_fbi/ctm_fbi_variantf.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "B Squadron Officer | SAS",
+      "model_path": "characters/models/ctm_sas/ctm_sas_variantf.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Chem-Haz Specialist | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_variantj.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Bio-Haz Specialist | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_varianth.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Trapper Aggressor | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Mr. Muhlik | Elite Crew",
+      "model_path": "characters/models/tm_leet/tm_leet_variantj.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Enforcer | Phoenix",
+      "model_path": "characters/models/tm_phoenix/tm_phoenix_variantf.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Soldier | Phoenix",
+      "model_path": "characters/models/tm_phoenix/tm_phoenix_varianth.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Ground Rebel  | Elite Crew",
+      "model_path": "characters/models/tm_leet/tm_leet_variantg.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Street Soldier | Phoenix",
+      "model_path": "characters/models/tm_phoenix/tm_phoenix_varianti.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Dragomir | Sabre Footsoldier",
+      "model_path": "characters/models/tm_balkan/tm_balkan_variantl.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Officer Jacques Beltram | Gendarmerie Nationale",
+      "model_path": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variante.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_variantk.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
+      "model_path": "characters/models/ctm_gendarmerie/ctm_gendarmerie_varianta.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Markus Delrow | FBI",
+      "model_path": "characters/models/ctm_fbi/ctm_fbi_variantg.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Buckshot | NSWC SEAL",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantg.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "John 'Van Healen' Kask | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_variantg.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sergeant Bombson | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_varianti.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Blueberries' Buckshot | NSWC SEAL",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantj.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Col. Mangos Dabisi | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantd.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Trapper | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf2.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Maximus | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_varianti.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Osiris | Elite Crew",
+      "model_path": "characters/models/tm_leet/tm_leet_varianth.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Slingshot | Phoenix",
+      "model_path": "characters/models/tm_phoenix/tm_phoenix_variantg.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Dragomir | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_variantf.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Getaway Sally | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varj.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Little Kev | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varh.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Chem-Haz Capitaine | Gendarmerie Nationale",
+      "model_path": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantb.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Lieutenant Rex Krikey | SEAL Frogman",
+      "model_path": "characters/models/ctm_diver/ctm_diver_variantc.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Michael Syfers | FBI Sniper",
+      "model_path": "characters/models/ctm_fbi/ctm_fbi_varianth.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "'Two Times' McCoy | USAF TACP",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantm.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "1st Lieutenant Farlow | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_variantf.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "'Two Times' McCoy | TACP Cavalry",
+      "model_path": "characters/models/ctm_st6/ctm_st6_variantl.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
+      "model_path": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantc.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
+      "model_path": "characters/models/ctm_diver/ctm_diver_variantb.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
+      "model_path": "characters/models/ctm_diver/ctm_diver_varianta.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Lt. Commander Ricksaw | NSWC SEAL",
+      "model_path": "characters/models/ctm_st6/ctm_st6_varianti.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Special Agent Ava | FBI",
+      "model_path": "characters/models/ctm_fbi/ctm_fbi_variantb.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
+      "model_path": "characters/models/ctm_swat/ctm_swat_variante.vmdl",
+      "price": 30000,
+      "team": 3,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Bloody Darryl The Strapped | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf5.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Elite Trapper Solman | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_varianta.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Arno The Overgrown | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantc.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Blackwolf | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_variantj.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Prof. Shahmat | Elite Crew",
+      "model_path": "characters/models/tm_leet/tm_leet_varianti.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Rezan The Ready | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_variantg.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Number K | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_vari.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Safecracker Voltzmann | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varg.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Rezan the Redshirt | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_variantk.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Vypa Sista of the Revolution | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variante.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "'Medium Rare' Crasswater | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb2.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Crasswater The Forgotten | Guerrilla Warfare",
+      "model_path": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "'The Doctor' Romanov | Sabre",
+      "model_path": "characters/models/tm_balkan/tm_balkan_varianth.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "The Elite Mr. Muhlik | Elite Crew",
+      "model_path": "characters/models/tm_leet/tm_leet_variantf.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sir Bloody Miami Darryl | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sir Bloody Silent Darryl | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf1.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sir Bloody Skullhead Darryl | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf2.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sir Bloody Darryl Royale | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf3.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    },
+    {
+      "name": "Sir Bloody Loudmouth Darryl | The Professionals",
+      "model_path": "characters/models/tm_professional/tm_professional_varf4.vmdl",
+      "price": 30000,
+      "team": 2,
+      "type": "playermodel",
+      "product_time": 9999999,
+      "status": 1
+    }
+  ]
+}

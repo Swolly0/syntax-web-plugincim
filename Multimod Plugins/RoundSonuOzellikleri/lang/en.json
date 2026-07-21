@@ -1,0 +1,18 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"MenuTitle": "Round Sonu Özellikleri",
+	"active": "Aktif",
+	"inactive": "Pasif",
+	"noclip_actived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı.",
+	"noclip_inactived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı.",
+	"speed_actived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı.",
+	"speed_inactived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı.",
+	"gravity_actived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı.",
+	"gravity_inactived": "{Green}Round sonu {Purple}noclip özelliği{Green}açıldı."
+}

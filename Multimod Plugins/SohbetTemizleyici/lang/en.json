@@ -1,0 +1,11 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"chat_clear": "{Green}{0} {Default}sohbeti temizledi.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

@@ -1,0 +1,21 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title": "Bir meslek seç ve o gardiyanlara gücünü göster!",
+	"job_doctor": "Doktor: 50 can veren sağlık aşısı al.",
+	"job_flash": "Flash: {0} saniye flash ol.",
+	"job_bomber": "Bombacı Mülayim: Rastgele smoke-nade-flash bombalarından birini kazanırsın.",
+	"job_rambo": "Rambo: {0} can - {1} armor verir.",
+	"player_use_job": "{Default}Bu round zaten meslek kullandın.",
+	"job_only_prisoner": "{Green}Meslek Menü {Red}Mahkümlar özeldir.",
+	"job_only_alive_prisoner": "{Green}Meslek Menü'yü sadece {Red}hayattaki mahkümlar {Default}kullanabilir.",
+	"player_chose_doctor": "{Green}Doktor {Default}mesleği seçildi.",
+	"player_chose_flash": "{Green}Flash {Default}mesleği seçildi.",
+	"player_chose_bomberr": "{Green}Bombacı Mülayim {Default}mesleği seçildi.",
+	"player_chose_rambo": "{Green}Rambo {Default}mesleği seçildi."
+}

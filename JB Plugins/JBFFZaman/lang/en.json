@@ -1,0 +1,17 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"center_countdown": "FF'in açılmasına son:",
+	"second": "saniye",
+	"command_used": "{Green}{0} {Default}{1} saniyelik ff zaman oluşturdu.",
+	"ff_open": "{Default}FF Açıldı!",
+	"chat_countdown": "{Default}FF'in açılmasına {Green}son {0} saniye.",
+	"command_usage": "{Default}Komut kullanımı: !ffz <süre>",
+	"ff_close": "{Green}{0} {Default}FF Zaman'ı iptal etti.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

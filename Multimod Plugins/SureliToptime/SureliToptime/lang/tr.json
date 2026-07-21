@@ -1,0 +1,18 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"toptime_auto_reset": "{Default}Süreli toptime {Green}otomatik sıfırlandı.",
+	"menu_title": "{Green}Süreli toptime sıralaması:",
+	"auto_reset_date": "{Green} Bir sonraki sıfırlanma tarihi: {0}",
+	"toptime_option": "{Blue}{0}. {Green}{1} {Default}- {2} saat {3} dakika.",
+	"toptime_empty": "{Default}Süreli toptime listesi boş!",
+	"command_error": "!stop komut hatasi: ",
+	"toptime_reset": "{Green}{0} {Default}Süreli toptime'ı sıfırladı.",
+	"player_time": "{Default}Süreli oynama süreniz: {Green}{0} saat {1} dakika.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

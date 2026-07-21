@@ -1,0 +1,28 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"vote_count_down1": "{Green}Kalan komut süresi: {LightRed}{0} saniye.",
+	"vote_count_down2": "{Green}Kalan komut süresi: {LightRed}{0} dakika.",
+	"vote_end_win": "{Default}Komutçu-DK oylaması {Green}kal olarak sonuçlandı. {Default}Komut süresi: {LightRed}{0} dakika.",
+	"vote_end_lose": "{Default}Komutçu-DK oylaması {LightRed}değiş olarak sonuçlandı.",
+	"vote_end_draw": "{Default}Komutçu-DK oylaması eşit sonuçlandı. {LightRed}Oylama tekrar başlatıldı.",
+	"vote_remain": "Kal",
+	"vote_change": "Değiş",
+	"vote_title1": "Komutçu Değiş Kal Oylaması",
+	"vote_title2": "Komutçu Değiş Kal Oylaması - Son {0} saniye.",
+	"vote_change_time": "{Green}{0} {Olive}isimli yetkili {Default}komut süresini {LightRed}{1} dakika yaptı!",
+	"command_usage": "{Green}Komut kullanımı: {Default}!komsure <dakika>",
+	"player_vote_countdown": "{Default}Komutçunun kalan komut süresi: {LightRed}{0} dakika {1} saniye.",
+	"countdown_not_active": "{Default}Komut süresi aktif değil.",
+	"vote_stop": "{Green}{0} {Default}!komdk0 komutunu uyguladı.",
+	"vote_start": "{Green}Kom-DK {Default}oylaması başlatıldı.",
+	"vote_title": "Komutçu Değiş Kal \nKal çıkarsa süre {0} dakika uzatılacaktır.",
+	"player_vote_change": "{LightRed} Değiş oy'u {Default}kullanıldı.",
+	"player_vote_remain": "{Green}Kal oy'u {Default}kullanıldı.",
+	"permissions": "{Red}Bu komutu sadece CT ve Yetkili kullanabilir."
+}

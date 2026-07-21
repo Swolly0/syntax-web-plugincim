@@ -1,0 +1,13 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"command_use": "{Green}{0} {Default}!sonsec {1} komutunu uyguladı.",
+	"command_invalid_count": "{Default}Canlandırmak istediğiniz son ölen oyuncu sayısı ölen oyuncudan fazla.",
+	"command_usage": "{Default}Komut kullanımı: !sonsec <oyuncu sayısı>",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

@@ -1,0 +1,19 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"center_freeze_countdown": "<br/><br/><p style='font-weight: 700; color: red; font-size: 20px;'>Freeze atılmasına son: {0} saniye.</p>",
+	"center_ff_countdown": "<p style='font-weight: 700; color: red; font-size: 20px;'>FF'in kapatılmasına son: {0} saniye.</p>",
+	"center_frozen_t": "<br/><br/><p style='font-weight: 700; color: red; font-size: 20px;'>Freeze atıldı.</p>",
+	"center_ff_closed": "<p style='font-weight: 700; color: red; font-size: 20px;'>FF Kapatıldı.</p>",
+	"command_used": "{LightRed}{0} {Green}!ffd {1} {2} {Default}komutunu uyguladı.",
+	"chat_frozen_t": "{Default}Freeze Atıldı!",
+	"chat_ff_closed": "{Default}FF Kapatıldı!",
+	"command_usage": "{Red}Komut kullanımı: !ffd <freeze süre> <ff süre>",
+	"command_cancel": "{Green}{0} {Default}FF Dondur'u iptal etti.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

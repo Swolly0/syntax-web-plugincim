@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"teams_created": "{White}Takım oluşturuldu.",
+	"teams_cleared": "{White}Takım kapatıldı.",
+	"your_team_blue": "{White}Senin takımın: {Blue}Mavi.",
+	"your_team_red": "{White}Senin takımın: {LightRed}Kırmızı.",
+	"min_player": "{White}Takım oluşturabilmek için mahküm takımında en az {LightRed}2 kişi olmalıdır.",
+	"permissions": "{White}Bu komutu sadece yetkililer ve ct kullanabilir."
+
+}

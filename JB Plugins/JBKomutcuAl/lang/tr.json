@@ -1,0 +1,28 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"vote": "oy",
+	"warden_voting_start": "{Green}{0} {Default}komutçu oylamasını başlattı. {Red}( !komaday )",
+	"vote_one_player": "{Green}{0} {Default}dışında komutçu oylamasına katılan olmadı.",
+	"vote_no_player": "{Default}Hiç aday olmadığı için {LightRed}!komal iptal edildi.",
+	"vote_countdown": "{Default}Komutçu oylamasının başlamasına {Red}son {0} saniye.",
+	"vote_is_active": "{Default}Komutçu oylaması zaten aktif. {Red}( !komal0 )",
+	"vote_stop": "{Green}{0} {Default}komutçu oylamasını iptal etti.",
+	"player_join_vote": "{Green}{0} {Default}komutçu oylamasına adaylığını bastı.  {Red}{1}/{2}",
+	"player_join_already": "{Default}Zaten komutçu adaylığınız var. {Red}( !komaday0 )",
+	"vote_join_limit": "{Default}Toplam aday limiti dolduğu için aday olamadın. {0}/{1}",
+	"vote_not_active": "{Default}Komutçu oylaması aktif değil.",
+	"player_not_join": "{Default}Zaten komutçu adaylığınız yok.",
+	"player_leave_vote": "{Green}{0} {Default}komutçu adaylığından ayrıldı. {Red}{1}/{2}",
+	"vote_win_player": "{Green}{0} {Default}komutçu oylamasını {Red}{1} {Default}oy ile kazandı.",
+	"vote_end_countdown": "{Default}Komutçu oylamasının bitmesine {Red}son {0} saniye.",
+	"vote_title": "Komutçu Oylaması",
+	"vote_given": "{Green}{0} {Default}isimli komutçu adayına oy basıldı. {Red}Oy: {1}",
+	"can_talk": "{Green}{0} {Default}5 saniye boyunca konuşabilirsin.",
+	"permissions": "{Default}Bu komutu sadece yetkililer kullanabilir."
+}

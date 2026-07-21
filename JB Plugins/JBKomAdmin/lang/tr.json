@@ -1,0 +1,22 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"warden_admin_info": "{Green}Komutçu admini: {Default}{0}",
+	"warden_admin_no": "{Green}Komutçu admini: {Default}yok",
+	"warden_admin_removed": "{Green}{0} {Default}isimli yetkilinin {Olive}komutçu adminliği {LightRed}kaldırıldı.",
+	"warden_admin_new": "{Default}Yeni komutçu admini: {Green}{0}",
+	"target_not_found": "{Default}Hedef bulunamadı.",
+	"unwarden_admin": "{Green}{0} {Default}komutçu admini {LightRed}kaldırdı.",
+	"menu_title": "{Green}Komutçu Admin Sıralaması:",
+	"toptime_option": "{Blue}{0}. {Green}{1} {Default}- {2} saat {3} dakika.",
+	"toptime_empty": "{Default}Komutçu Admin sıralaması boş!",
+	"command_error": "!topka komut hatasi: ",
+	"toptime_reset": "{Green}{0} {Default}komutçu admin sıralamasını sıfırladı.",
+	"player_time": "{Default}Toplam ka süreniz: {Green}{0} saat {1} dakika.",
+	"permissions": "{Default}Bu komutu sadece komutçu veya yetkili kullanabilir."
+}

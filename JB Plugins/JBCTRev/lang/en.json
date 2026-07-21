@@ -1,0 +1,21 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"respawn_reset": "{Green}{0} {Silver}isimli yetkili {Default}rev hakkını {Red}sıfırladı!",
+	"menu_title": "Canlandırmak İstediğin Korumanı Seç",
+	"auto_respawn_active": "Otomatik respawn sistemi: AKTİF",
+	"auto_respawn_inactive": "Otomatik respawn sistemi: PASİF",
+	"menu_option": "{Green}{0} {Default}isimli korumanı canlandırabilmen için son {Red}{1}",
+	"auto_respawn_be_inactive": "{Green}CT Rev Menü {Default}otomatik respawn sistemi: {LightRed}pasif.",
+	"auto_respawn_be_active": "{Green}CT Rev Menü {Default}otomatik respawn sistemi: {LightRed}aktif.",
+	"player_respawn": "{Green}{0} {Default}komutçu tarafından canlandırıldı! {Red}Kalan rev hakkı {1}",
+	"respawn_for_time": "{Green}{0} {Default}korumanı canlandırabilmen için {Red}son {1} saniye.",
+	"respawn_end": "{Default}Respawn hakkı bitmiş :(",
+	"auto_respawn": "{Green}{0} {Default}otomatik olarak canlandırıldı. {Red}Kalan rev hakkı {1}",
+	"permissions": "{Default}Bu komutu sadece komutçu ve yetkili kullanabilir."
+}

@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"command_used": "{Green}{0} {Default}{1} saniyelik isyan eli başlattı.",
+	"game_started": "{Red}İSYAN ELİ BAŞLADI!",
+	"game_countdown": "{Red}İsyan elinin başlamasına {Default}son {0} saniye.",
+	"center_game_countdown1": "İsyan elinin başlamasına son: {0} saniye.",
+	"center_game_countdown2": "İsyan elinin başlamasına son:",
+	"command_usage": "{Default} Komut kullanımı: !iseli <süre>",
+	"permissions": "Bu komutu yetkililer ve CT kullanabilir."
+}

@@ -1,0 +1,12 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"1v1": "{Green}1v1 aktif! {Red}{0} saniye {Default}sonra round bitecek.",
+	"countdown": "{Red}{0} saniye {Default}sonra round bitecek.",
+	"end_round": "{Default}Round bitirildi."
+}

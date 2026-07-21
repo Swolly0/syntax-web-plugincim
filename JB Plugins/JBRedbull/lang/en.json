@@ -1,0 +1,13 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"redbull_use": "{Green}Redbull {Default}kanatlandırırrr...",
+	"redbull_used": "{Default}Bu round redbull içtiniz fazlası zarar.",
+	"redbull_only_prisoner": "{Green}Redbull {Red}Mahkümlar özeldir.",
+	"redbull_only_alive_prisoner": "{Green}Redbull'u {Red}sadece hayattaki mahkumlar {Default}içebilir."
+}

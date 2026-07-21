@@ -1,0 +1,12 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"afk_warning": "{Default}Afk olduğun algılandı. {Red}{0} saniye {Default}içerisinde hareket etmelisin.",
+	"afk_move_spec": "{Default}Afk limitine ulaştınız, izleyiciye taşınıyorsunuz!",
+	"afk_slay": "{Default}Afk olduğunuz için öldünüz!"
+}

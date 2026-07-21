@@ -1,0 +1,15 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"fence_limit": "{Default}Toplam çit sınırı aşıldı! {Purple}(!cit0)",
+	"cant_put_fence": "{Default}Artık ateş ederek çit koyamazsın.",
+	"can_put_fence": "{Default}Artık ateş ederek çit koyabilirsin.",
+	"fences_removed": "{Green}{0} {Default}tüm çitleri kaldırdı.",
+	"fence_placed": "{Green}{0} {Default}bir çit oluşturdu. {Purple}{1}/32",
+	"permissions": "{Default}Bu komutu sadece CT ve Yetkili kullanabilir."
+}
