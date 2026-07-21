@@ -1,0 +1,114 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	// {Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	// {LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	// {Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+
+	"admin_menu_txt": "YÖNETİCİ KONTROL PANELİ",
+	"admin_menu_ban_list": "Yasaklı Oyuncular",
+	"admin_menu_ban": "Oyuncuyu Yasakla (Ban)",
+	"admin_menu_kick": "Oyuncuyu Sunucudan At (Kick)",
+	"admin_menu_mute": "Oyuncunun Sesini Kapat (Mute)",
+	"admin_menu_gag": "Oyuncunun Yazışmasını Engelle (Gag)",
+	"admin_menu_back": "Geri Dön",
+
+	"select_reason": "Sebep seçimi yapın",
+	"reason_1": "SEBEP 1",
+	"reason_2": "SEBEP 2",
+	"reason_3": "SEBEP 3",
+	"reason_4": "SEBEP 4",
+	"reason_5": "SEBEP 5",
+	"reason_6": "SEBEP 6",
+	"reason_7": "SEBEP 7",
+	"reason_8": "SEBEP 8",
+	"reason_9": "SEBEP 9",
+
+	"no_active_bans": "{Default}yasaklı hiç oyuncu yok, ne kadar güzel.",
+	"ban_removed_success": "{Green}{0} {Default}adlı oyuncunun yasağı kaldırıldı.",
+
+
+	"select_player": "Lütfen işlem yapılacak oyuncuyu seçiniz.",
+	"select_time": "İşlem süresini seçiniz.",
+
+	"time_1h": "⏳ 1 Saat",
+	"time_6h": "⏳ 6 Saat",
+	"time_12h": "⏳ 12 Saat",
+	"time_24h": "⏳ 24 Saat",
+	"time_1d": "⏳ 1 Gün",
+	"time_1w": "⏳ 1 Hafta",
+	"time_1m": "⏳ 1 Ay",
+	"time_perm": "⏳ Kalıcı",
+
+	"no_perm": "{Default}Bu komutu kullanmak için {Green}yeterli yetkiye {Red}sahip değilsiniz.",
+	"invalid_target": "{Red}Geçersiz oyuncu seçimi.",
+	"missing_data": "{Red}İşlem için gerekli veriler eksik (hedef veya işlem).",
+	"target_not_found": "{Red}Seçilen oyuncu oyunda bulunamadı.",
+
+	"permanent": "Kalıcı",
+	"instant": "Anlık",
+	"minutes": "dakika",
+	"duration_minutes": "{0} dakika",
+	"duration_hours": "{0} saat",
+	"duration_days": "{0} gün",
+	"duration_weeks": "{0} hafta",
+	"duration_months": "{0} ay",
+
+	"proc_ban": "Ban",
+	"proc_kick": "Kick",
+	"proc_mute": "Mute",
+	"proc_gag": "Gag",
+	"proc_unknown": "Bilinmeyen işlem",
+
+	"action_target": "{Red}{0} {Default}işlemi size uygulandı. {Green}Süre: {1}",
+	"removed_action_target": "{0} işlemi kaldırıldı.",
+
+	// Broadcast (sunucuya düşecek mesaj)
+	// {0} = yönetici, {1} = işlem adı, {2} = hedef oyuncu, {3} = süre
+	"broadcast_action": "{Gold}{0} {Default}tarafından {Red}{1} uygulandı {Default}→ Hedef: {Green}{2} {Blue}• Süre: {3}",
+	"removed_broadcast_action": "{Gold}{0} {Default}tarafından {Red}{1} işlemi {Green}kaldırıldı {Default}→ Hedef: {Green}{2}",
+
+	"kick_actor": "{Gold}{0} {Default}adlı oyuncu sunucudan atıldı.",
+	"kick_target": "Bir yönetici tarafından oyundan atıldınız.",
+
+	"ban_actor": "{Gold}{0} {Default}adlı oyuncu {Red}yasaklandı. {Green}Süre: {1}",
+	"ban_target": "Sunucudan yasaklandın. Süre: {0}",
+
+	"mute_actor": "{Gold}{0} {Default}adlı oyuncu {Red}susturuldu. {Green}Süre: {1}",
+	"mute_target": "{Red}Sesli iletişiminiz kısıtlandı. {Green}Süre: {0}",
+
+	"gag_actor": "{Gold}{0} {Default}adlı oyuncu {Red}gaglandı. {Green}Süre: {1}",
+	"gag_target": "{Red}Yazılı iletişiminiz kısıtlandı. {Green}Süre: {0}",
+	"gag_active_msg": "{Red}Sohbetiniz kısıtlı. {Green}Bitiş: {0}",
+	"gag_msg_to_admin": "{Olive}{0}: {Default}{1}",
+	"unknown_process": "{Default}Bilinmeyen işlem türü: {Red}{0}",
+
+	"ban_info_msg": "Sunucudan yasaklandın. Yasağın bitiş tarihi: {0}",
+
+	"logs_menu_title": "Geçmiş İşlem Kayıtları",
+	"logs_menu_all": "Tüm Kayıtlar",
+	"logs_menu_ban": "Yasaklama Kayıtları",
+	"logs_menu_unban": "Yasak Kaldırma Kayıtları",
+	"logs_menu_mute": "Susturma Kayıtları",
+	"logs_menu_gag": "Yazı Susturma Kayıtları",
+
+	"logs_title_ban": "Ban Kayıtları",
+	"logs_title_unban": "Ban Kaldırma Kayıtları",
+	"logs_title_mute": "Susturma (Mute) Kayıtları",
+	"logs_title_gag": "Yazı Susturma (Gag) Kayıtları",
+	"logs_title_all": "Tüm İşlem Kayıtları",
+	"logs_title_default": "İşlem Kayıtları",
+
+	"logs_no_records": "Kayıt Yok",
+	"logs_line_format": "{0} > {1} • {2} • {3}dk - {4}",
+
+
+	"ban_usage": "{Default}Kullanım: {Olive}!bn <isim||steamid64> <dakika|-1> <sebep>",
+	"unban_usage": "{Default}Kullanım: {Olive}!unban <steamid64>",
+	"ban_invalid_time": "{Default}Ban süresi sayı olmalı.",
+	"ban_kick_reason": "Banlandın: {0}",
+	"ban_success": "{Olive}{0} {Default}için ban {Red}uygulandı.",
+	"unban_success": "{Olive}{0} {Default}için ban {Green}kaldırıldı."
+}

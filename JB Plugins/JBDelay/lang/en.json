@@ -1,0 +1,12 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"command_used": "{Green}{0} {Default}delayı gideriyor.",
+	"delay_fixed": "{Green}delay giderildi.",
+	"permissions": "Bu komutu yetkililer ve CT kullanabilir."
+}

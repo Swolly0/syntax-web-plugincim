@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+        <RootNamespace>CS2-RestrictZone</RootNamespace>
+        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    </PropertyGroup>
+
+    <ItemGroup>
+	    <PackageReference Include="CounterStrikeSharp.API" Version="*" />
+	
+	    <PackageReference Include="Microsoft.Extensions.Localization" Version="*" />
+	    <None Update="lang\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+	    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	    <PackageReference Include="Obfuscar" Version="2.2.38">
+	      <PrivateAssets>all</PrivateAssets>
+	      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	    </PackageReference>
+    </ItemGroup>
+
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+      <Exec Command="&quot;$(Obfuscar)&quot; obfuscar.xml" />
+    </Target>
+    
+</Project>

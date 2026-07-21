@@ -1,0 +1,42 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title1": "Süreli kz'nin bitmesine son:",
+	"menu_title2": "Süreli kz'nin bitmesine son: {0} saniye.",
+	"game_active": "{Default}Süreli kz aktifken tekrar başlatılamaz. {Purple}(!skz0)",
+	"game_set_error": "{Default}Süreli kz ayarları yapılmamış. {Purple}(!skzayar)",
+	"game_settings_error": "{Default}Süreli kz ayarları yapılmamış. {Purple}(!skzayar)",
+	"game_start_command": "{Green}{0} {Default}{1} saniyelik {Green}süreli kz oluşturdu.",
+	"game_start_title": "Süreli kz başlangıç bölgesini seçin:",
+	"game_start_option_1": "Bulunduğum yerden (!1)",
+	"game_start_option_2": "Kulvar konumu belirlenmemiş.",
+	"game_start_option_3": "Kulvardan (!2)",
+	"game_start_option_4": "Hücre konumu belirlenmemiş.",
+	"game_start_option_5": "Hücreden (!3)",
+	"command_usage": "{Default}Komut kullanımı: !skz <süre>",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir.",
+	"game_countdown": "{Default}Süreli kz'nin başlamasına {Green}son {0} saniye.",
+	"game_end_countdown": "{Default}Süreli kz'nin bitmesine {Lightred}son {0} saniye.",
+	"game_start": "{Default}Süreli kz başladı! {Green}Toplam süre: {0} saniye.",
+	"game_end": "{Default}süreli kz'yi yapamayan oyuncular öldürüldü.",
+	"game_win_count": "{Purple}{0} oyuncu hayatta.",
+	"game_no_win": "{Default}süreli kz'yi kimse bitiremedi.",
+	"game_stop": "{Green}{0} {Default}sureli kz'yi durdurdu.",
+	"game_set_title": "Süreli kz ayarları:",
+	"game_set_option_1": "Skz bitiş konumu: BELİRLENMEDİ - (!1) Belirle",
+	"game_set_option_2": "Skz bitiş konumu: BELİRLENDİ - (!1) Yeniden belirle",
+	"game_set_option_3": "Kulvar konumu: BELİRLENMEDİ - (!2) Belirle",
+	"game_set_option_4": "Kulvar konumu: BELİRLENDİ - (!2) Yeniden belirle",
+	"game_set_option_5": "Hücre konumu: BELİRLENMEDİ - (!3) Belirle",
+	"game_set_option_6": "Hücre konumu: BELİRLENDİ - (!3) Yeniden belirle",
+	"permissions2": "{Default}Bu komutu sadece {LightRed}root {Green}kullanabilir.",
+	"game_set_1": "{Default}Skz bitiş konumu {Purple}bulunduğunuz konum olarak {Green}belirlendi.",
+	"game_set_2": "{Default}Kulvar konumu {Purple}bulunduğunuz konum olarak {Green}belirlendi.",
+	"game_set_3": "{Default}Hücre konumu {Purple}bulunduğunuz konum olarak {Green}belirlendi.",
+	"player_finish_game": "{Lime}{0} {Purple}{1} saniye ile {2}. {Default}olarak bitirdi."
+}

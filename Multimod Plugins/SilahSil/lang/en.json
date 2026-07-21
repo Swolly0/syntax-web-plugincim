@@ -1,0 +1,11 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"weapon_removed_msg": "{Green}{0} {Default}yerdeki silahları temizledi.",
+	"permissions": "{Red}Bu komutu sadece yetkililer kullanabilir."
+}

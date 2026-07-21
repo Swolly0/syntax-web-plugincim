@@ -1,0 +1,27 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"bet_made": "{Default}Bu round rulete bahis yapmışsın.",
+	"player_bet": "{Default}Oynanan bahis: {Red}{0} - {1} kredi",
+	"red": "KIRMIZI",
+	"green": "YEŞİL",
+	"black": "SİYAH",
+	"choose_color": "Bahis yapmak istediğiniz rengi seçin\n Bahsiniz: {0}",
+	"choose_color_option": "{0} | Kazanırsanız: {1} * {2} = {3}",
+	"invalid_credit_amount": "{Default}Kredi miktarınız yetersiz.",
+	"player_bet_chatall": "{Purple}{0} {Default}rulette {Red}{1} {Default}renge {2} kredi yatırdı.",
+	"roulette_spin": "{Default}RULET DÖNDÜRÜLÜYOR! BOL ŞANS!",
+	"roulette_win_color": "{Default}Rulette kazanan renk: {Red}{0}",
+	"roulette_prefix": "RULET",
+	"player_win": "{Silver}Bahis: -{0} {Green}Geri ödenen: +{1}",
+	"player_lose": "{Silver}Bahis: -{0} {LightRed}Geri ödenen: 0",
+	"center_player_roulette": "Bahsiniz: {0} - {1}",
+	"center_roulette_spin": "Rulet döndürülüyor...",
+	"command_usage": "{Default}Komut kullanımı: !rulet <{0} - {1}>",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

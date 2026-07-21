@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Platforms>AnyCPU;x86</Platforms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+	<CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="CounterStrikeSharp.API" Version="*" />
+	
+	<PackageReference Include="Microsoft.Extensions.Localization" Version="*" />
+	<None Update="lang\**\*.*" CopyToOutputDirectory="PreserveNewest" />
+
+    <PackageReference Include="Dapper" Version="2.1.15" />
+    <PackageReference Include="MySqlConnector" Version="2.3.0-beta.4" />
+    <PackageReference Include="YamlDotNet" Version="9.1.4" />
+  </ItemGroup>
+  
+</Project>

@@ -1,0 +1,15 @@
+{
+  //==========================
+  //        Colors
+  //==========================
+  //{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+  //{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+  //{Default} {White} {Darkred} {Green} {LightYellow}
+  //==========================
+  "rt_settings_error": "{Default}Kule konum ayarları yapılmamış. {Purple}(!rtset)",
+  "rt_set_title": "Kule Konum Ayarları",
+  "rt_set_option_1": "Kule Konumu: Belirlendi",
+  "rt_set_option_2": "Kule konumu: Belirlenmedi",
+  "rt_set": "{Default}Kule konumu {Purple}bulunduğunuz konum olarak {Green}belirlendi.",
+  "permissions": "{Default}Bu komutu sadece {LightRed}root {Green}kullanabilir."
+}

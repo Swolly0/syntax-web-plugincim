@@ -1,0 +1,26 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"last_unban": " {Green}{0} {Purple}{1} {Default}isimli oyuncunun yasağını kaldırdı.",
+	"target_not_found": "{Red}Hedef bulunamadı.",
+	"command_usage": "{Red}Komut kullanımı: !lastunban <steamid/76561198405507322>",
+	"menu_title": "son çıkış yapan oyuncular:",
+	"menu_option": "{0} son giriş: {1} - çıkış: {2}",
+	"lastban_empty": "{Default}Lastban listesi boş!",
+	"time_menu_title": "{0} isimli oyuncuyu yasaklamak istediğiniz süreyi seçin.",
+	"1hour": "1 Saat",
+	"1day": "1 Gün",
+	"1week": "1 Hafta",
+	"1month": "1 Ay",
+	"1year": "1 Yıl",
+	"perma": "Perma",
+	"ban_msg": "{Red}{0} {Default}isimli oyuncu {Blue}{1} {Default}isimli yetkili tarafından yasaklandı!",
+	"kick_msg": "{0} isimli yetkili tarafından {1} gün, {2} saat yasaklandın.",
+	"ban_info_msg": "{0} tarihine kadar yasaklısın.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

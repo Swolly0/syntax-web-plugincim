@@ -1,0 +1,34 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"store_title": "Market Sistemi \nKredi miktarın: {0}",
+	"equiped": "[KULLANILIYOR] ",
+	"equip": "[KULLAN] ",
+	"credit": "kredi",
+	"item_equip_msg": "{Green}{0} {Default}kullanıma alındı.",
+	"item_unequip_msg": "{Green}{0} {Default}kullanımdan kaldırıldı.",
+	"item_buyed_msg": "{Green}{0} {Default}isimli ürünü satın aldın.",
+	"inventory_title": "Market Sistemi - Envanter - \nKredi miktarın: {0}",
+	"expiry": "Bitiş: ",
+	"inventory_empty": "{Default}Envanterin bomboş.",
+	"target_not_found": "{Green}Hedef bulunamadı. {Default}Komut kullanımı: !krediver <hedef> <miktar>",
+	"invalid_credit": "{Green}Kredi miktarı geçersiz. {Default}Komut kullanımı: !krediver <hedef> <miktar>",
+	"command_usage": "{Green}Komut kullanımı: {Default}!krediver <hedef> <miktar>",
+	"credit_msg": "{Default}Kredi miktarınız: {Green}{0}",
+	"gift_credit_sended": "{Green}{0} isimli oyuncuya {Purple}{1} kredi {Default}hediye edildi.",
+	"gift_credit_received": "{Green}{0}, {Default}sana {Purple}{1} kredi {Default}hediye etti.",
+	"gift_target_not_found": "{Green}Hedef bulunamadı. {Default}Komut kullanımı: !hediye <hedef> <miktar>",
+	"gift_command_usage": "{Green}Komut kullanımı: {Default}!hediye <hedef> <miktar>",
+	"reset_credit_msg": "{Green}{0} {Default}kredileri sıfırladı.",
+	"reset_store_msg": "{Green}{0} {Default}marketi sıfırladı.",
+	"topcredit_title": "{Green}Top kredi sıralaması:",
+	"topcredit_empty": "{Default}Top listesi boş!",
+	"topcredit_error": "!topkredi komut hatasi: ",
+	"auto_credit_msg": "{Default}Sunucuda vakit geçirdiğin için {Green}{0} kredi kazandın.",
+	"permissions": "{Default}Bu komuta erişiminiz yok."
+}

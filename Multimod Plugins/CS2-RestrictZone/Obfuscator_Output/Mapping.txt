@@ -1,0 +1,117 @@
+Renamed Types:
+
+[CS2-RestrictTower]Cs2RestrictTower.Config -> [CS2-RestrictTower]A.A
+{
+
+	[CS2-RestrictTower]Cs2RestrictTower.Config::get_EklentiTagi[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::set_EklentiTagi[1]( [System.Runtime]System.String ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::get_Version[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Config::set_Version[1]( [System.Runtime]System.Int32 ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Config::get_TmGXnexhnN[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::set_TmGXnexhnN[1]( [System.Runtime]System.String ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::get_AlgilamaMesafesi[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::set_AlgilamaMesafesi[1]( [System.Runtime]System.Single ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Config::.ctor[0]( ) skipped:  special name
+
+	System.String [CS2-RestrictTower]System.String Cs2RestrictTower.Config::<EklentiTagi>k__BackingField -> A
+	System.Int32 [CS2-RestrictTower]System.Int32 Cs2RestrictTower.Config::<Version>k__BackingField -> a
+	System.String [CS2-RestrictTower]System.String Cs2RestrictTower.Config::<TmGXnexhnN>k__BackingField -> B
+	System.Single [CS2-RestrictTower]System.Single Cs2RestrictTower.Config::<AlgilamaMesafesi>k__BackingField -> b
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.HaritaKonumlari -> [CS2-RestrictTower]A.a
+{
+
+	[CS2-RestrictTower]Cs2RestrictTower.HaritaKonumlari::get_TowerPos[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.HaritaKonumlari::set_TowerPos[1]( [System.Runtime]System.String ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.HaritaKonumlari::.ctor[0]( ) skipped:  special name
+
+	System.String [CS2-RestrictTower]System.String Cs2RestrictTower.HaritaKonumlari::<TowerPos>k__BackingField -> C
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower -> [CS2-RestrictTower]A.B
+{
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::OnRoundStart[2]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.EventRoundStart, [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.GameEventInfo ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::OnRoundEnd[2]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.EventRoundEnd, [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.GameEventInfo ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::Settings[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::UpdateTowerLocation[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> a
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::OnMapStart[1]( [System.Runtime]System.String ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::EntityOlustur[0]( ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::draw_marker[3]( [System.Runtime]System.Single, [System.Runtime]System.Single, [System.Runtime]System.Single ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::draw_laser[3]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Utils.Vector, [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Utils.Vector, [System.Runtime]System.Single ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::angle_on_circle[3]( [System.Runtime]System.Single, [System.Runtime]System.Single, [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Utils.Vector ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::remove_marker[1]( [System.Runtime]System.Int32[] ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::ReplaceTags[2]( [System.Runtime]System.String, [System.Runtime]System.Boolean ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::PPujhEuVig[1]( [System.Runtime]System.String ) -> a
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::<Load>b__25_0[0]( ) -> a
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::<Load>b__25_2[2]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController, [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Commands.CommandInfo ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::<Settings>b__28_0[2]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController, [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Menu.ChatMenuOption ) -> A
+
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleName[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleVersion[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleDescription[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleAuthor[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_SbZlSxBgmc[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleConfigVersion[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_ModuleProduct[0]( ) skipped:  skipping properties
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::get_Config[0]( ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::set_Config[1]( [CS2-RestrictTower]Cs2RestrictTower.Config ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::OnConfigParsed[1]( [CS2-RestrictTower]Cs2RestrictTower.Config ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::Load[1]( [System.Runtime]System.Boolean ) skipped:  external base class or interface
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower::.ctor[0]( ) skipped:  special name
+
+	Microsoft.Extensions.Localization.IStringLocalizer [CS2-RestrictTower]Microsoft.Extensions.Localization.IStringLocalizer Cs2RestrictTower.Cs2RestrictTower::Stringlocalizer -> c
+	CounterStrikeSharp.API.Core.CDynamicProp [CS2-RestrictTower]CounterStrikeSharp.API.Core.CDynamicProp Cs2RestrictTower.Cs2RestrictTower::_entity -> D
+	Cs2RestrictTower.HaritaKonumlari [CS2-RestrictTower]Cs2RestrictTower.HaritaKonumlari Cs2RestrictTower.Cs2RestrictTower::_cfgHaritaKonumlari -> d
+	System.String [CS2-RestrictTower]System.String Cs2RestrictTower.Cs2RestrictTower::_configPath -> E
+	System.Int32[] [CS2-RestrictTower]System.Int32[] Cs2RestrictTower.Cs2RestrictTower::_marker -> e
+	CounterStrikeSharp.API.Modules.Timers.Timer [CS2-RestrictTower]CounterStrikeSharp.API.Modules.Timers.Timer Cs2RestrictTower.Cs2RestrictTower::_timerEx -> F
+	Cs2RestrictTower.Config [CS2-RestrictTower]Cs2RestrictTower.Config Cs2RestrictTower.Cs2RestrictTower::<Config>k__BackingField -> f
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c -> [CS2-RestrictTower]A.B/A
+{
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c::<Load>b__25_1[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Modules.Utils.ResourceManifest ) -> A
+
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c::.cctor[0]( ) skipped:  special name
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c::.ctor[0]( ) skipped:  special name
+
+	Cs2RestrictTower.Cs2RestrictTower/<>c [CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c Cs2RestrictTower.Cs2RestrictTower/<>c::<>9 -> G
+	CounterStrikeSharp.API.Core.Listeners/OnServerPrecacheResources [CS2-RestrictTower]CounterStrikeSharp.API.Core.Listeners/OnServerPrecacheResources Cs2RestrictTower.Cs2RestrictTower/<>c::<>9__25_1 -> g
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c__DisplayClass31_0 -> [CS2-RestrictTower]A.B/a
+{
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c__DisplayClass31_0::<EntityOlustur>b__0[0]( ) -> A
+
+	[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>c__DisplayClass31_0::.ctor[0]( ) skipped:  special name
+
+	Cs2RestrictTower.Cs2RestrictTower [CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower Cs2RestrictTower.Cs2RestrictTower/<>c__DisplayClass31_0::<>4__this -> H
+	CounterStrikeSharp.API.Modules.Utils.Vector [CS2-RestrictTower]CounterStrikeSharp.API.Modules.Utils.Vector Cs2RestrictTower.Cs2RestrictTower/<>c__DisplayClass31_0::vPosition -> h
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.Cs2RestrictTower/<>o__25 -> [CS2-RestrictTower]A.B/B
+{
+	System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,System.Object>> [CS2-RestrictTower]System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,System.Object>> Cs2RestrictTower.Cs2RestrictTower/<>o__25::<>p__0 -> I
+	System.Runtime.CompilerServices.CallSite`1<System.Func`4<System.Runtime.CompilerServices.CallSite,System.Object,System.String,System.Object>> [CS2-RestrictTower]System.Runtime.CompilerServices.CallSite`1<System.Func`4<System.Runtime.CompilerServices.CallSite,System.Object,System.String,System.Object>> Cs2RestrictTower.Cs2RestrictTower/<>o__25::<>p__1 -> i
+	System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,System.Boolean>> [CS2-RestrictTower]System.Runtime.CompilerServices.CallSite`1<System.Func`3<System.Runtime.CompilerServices.CallSite,System.Object,System.Boolean>> Cs2RestrictTower.Cs2RestrictTower/<>o__25::<>p__2 -> J
+}
+
+[CS2-RestrictTower]Cs2RestrictTower.Lib -> [CS2-RestrictTower]A.b
+{
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::Freeze[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CBasePlayerPawn ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::is_valid[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> A
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::is_t[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> a
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::is_ct[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> B
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::is_valid_alive[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> b
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::Pawn[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> C
+	[CS2-RestrictTower]Cs2RestrictTower.Lib::get_health[1]( [CounterStrikeSharp.API]CounterStrikeSharp.API.Core.CCSPlayerController ) -> c
+}
+
+Skipped Types:
+
+Renamed Resources:
+
+
+Skipped Resources:
+

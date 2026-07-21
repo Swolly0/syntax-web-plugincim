@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title": "{Green}Komut süresi sıralaması",
+	"toptime_option": "{Blue}{0}. {Green}{1} {Default}- {2} saat {3} dakika.",
+	"toptime_empty": "{Default}Komut süreleri listesi boş!",
+	"command_error": "!topkomutcu komut hatasi: ",
+	"toptime_reset": "{Green}{0} {Default}komut süreleri listesini sıfırladı.",
+	"player_time": "{Default}Toplam komut süreniz: {Green}{0} saat {1} dakika.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

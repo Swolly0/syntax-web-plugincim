@@ -1,0 +1,11 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"res_active": "{Default}Round sonu müzikleri: {Green}aktif edildi.",
+	"res_inactive": "{Default}Round sonu müzikleri: {LightRed}pasif edildi."
+}

@@ -1,0 +1,17 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"center_countdown": "Freeze'in atılmasına son:",
+	"second": "saniye",
+	"command_used": "{Green}{0} {Default}{1} saniyelik freeze zaman oluşturdu.",
+	"freeze_open": "{Red}Freeze Atıldı!",
+	"chat_countdown": "{Default}Freeze'in atılmasına {Green}son {0} saniye.",
+	"command_usage": "{Default}Komut kullanımı: !fz <süre>",
+	"freeze_close": "{Green}{0} {Default}Freeze Zaman'ı iptal etti.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

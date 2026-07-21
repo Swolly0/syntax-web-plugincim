@@ -1,0 +1,11 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"start_1v1": "{Default}1V1 arena başladı! {Green}Silah: {0}",
+	"end_1v1": "{Red}1V1 ARENA {Default}kazananı: {Green}{0}"
+}

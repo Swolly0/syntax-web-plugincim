@@ -1,0 +1,28 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title": "SESLERİ SUSTUR",
+	"menu_allsounds": "Tüm oyun sesleri",
+	"menu_knife": "Bıçak sesleri",
+	"menu_walk": "Yürüme sesleri",
+	"menu_weapon": "Silah sesleri",
+	"allsound_mute": "{White}Tüm oyun sesleri {LightRed}susturuldu.",
+	"allsound_unmute": "{White}Tüm oyun sesleri {Green}duyuluyor.",
+	"knife_mute": "{White}Bıçak sesleri {LightRed}susturuldu.",
+	"knife_unmute": "{White}Bıçak sesleri {Green}duyuluyor.",
+	"walk_mute": "{White}Yürüme sesleri {LightRed}susturuldu.",
+	"walk_unmute": "{White}Yürüme sesleri {Green}duyuluyor.",
+	"weapon_mute": "{White}Silah sesleri {LightRed}susturuldu.",
+	"weapon_unmute": "{White}Silah sesleri {Green}duyuluyor.",
+	"enable": " - SUSTURULDU -",
+	"disable": " - DUYULUYOR -"
+}
+
+
+
+

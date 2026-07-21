@@ -1,0 +1,17 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"center_countdown": "Freeze'in atılmasına son:",
+	"second": "saniye",
+	"command_used": "{Green}{0} {Default}{1} saniyelik saklambaç oyunu oluşturdu.",
+	"freeze_open": "{White}Freeze Atıldı!",
+	"chat_countdown": "{Green}Freeze'in atılmasına {Default}son {0} saniye.",
+	"command_usage": "{White}Komut kullanımı: {Blue}!saklambac <süre> {White}|| İptal: {Red}!saklambac0",
+	"freeze_close": "{White}{0} {Default}Saklambaç oyunu iptal edildi.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

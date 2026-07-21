@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"total_rebel_count": "{Default}Toplam isyan sayınız: {0}",
+	"menu_title": "{Green}İsyancılar sıralaması:",
+	"menu_option": "{Blue}{0}. {Green}{1} {Default}- {2} isyan.",
+	"toprebels_empty": "{Default}İsyancılar listesi boş!",
+	"command_error": "!isyancilar komut hatasi:",
+	"toprebels_reset": "{Green}{0} {Default}isyancılar listesini sıfırladı.",
+	"permissions": "Bu komutu yetkililer kullanabilir."
+}

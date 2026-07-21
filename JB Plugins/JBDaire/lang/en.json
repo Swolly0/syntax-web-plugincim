@@ -1,0 +1,13 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"circle_created": "{LightYellow}{0} {Green}daire oluşturdu.",
+	"min_player": "{Default}Daire oluşturmak için {LightRed}en az 5 mahkum {Lime}hayatta olmalı.",
+	"alive": "{Default}Bu komutu kullanabilmen için hayatta olmalısın.",
+	"permission": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

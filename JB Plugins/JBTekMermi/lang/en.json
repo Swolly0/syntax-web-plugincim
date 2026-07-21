@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"menu_title1": "FF'in açılmasına son:",
+	"menu_title2": "FF'in açılmasına son: {0} saniye.",
+	"game_start": "{Green}{0} {Default}{1} saniyelik tek mermi oluşturdu.",
+	"ff_active": "{Default}Tek mermi oyunu başladı!",
+	"command_usage": "{Default}Komut kullanımı: !tekm <süre>",
+	"game_stop": "{Green}{0} {Default}tek mermi'yi iptal etti.",
+	"permissions": "{Default}Bu komutu sadece {LightRed}CT ve Yetkili {Green}kullanabilir."
+}

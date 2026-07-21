@@ -1,0 +1,38 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"ctmenu_title": "Kalan seçim hakkı:",
+	"ctm_infinite_ammo": "Sınırsız Mermi",
+	"ctm_rev": "CT {0} Respawn Hakkı",
+	"ctm_hp": "Can: Kom {0}HP - Koruma: {1}HP",
+	"ctm_speed": "Hız: Kom {0}x - Koruma: {1}x",
+	"ctm_stealhp": "Can Çalma: Kom: %{0} - Koruma: %{1}",
+	"ctm_ammo_enable": "{Blue}CT Menü: {White}Sınırsız mermi {Green}aktif edildi.",
+	"ctm_ammo_disable": "{Blue}CT Menü: {White}Sınırsız mermi {LightRed}deaktif edildi.",
+	"ctm_rev_enable": "{Blue}CT Menü: {White}Respawn hakkı {Green}aktif edildi.",
+	"ctm_rev_disable": "{Blue}CT Menü: {White}Respawn hakkı {LightRed}deaktif edildi.",
+	"ctm_hp_enable": "{Blue}CT Menü: {White}Ekstra HP {Green}aktif edildi.",
+	"ctm_hp_disable": "{Blue}CT Menü: {White}Ekstra HP {LightRed}deaktif edildi.",
+	"ctm_speed_enable": "{Blue}CT Menü: {White}Ekstra hız {Green}aktif edildi.",
+	"ctm_speed_disable": "{Blue}CT Menü: {White}Ekstra hız {LightRed}deaktif edildi.",
+	"ctm_stealhp_enable": "{Blue}CT Menü: {White}Can çalma {Green}aktif edildi.",
+	"ctm_stealhp_disable": "{Blue}CT Menü: {White}Can çalma {LightRed}deaktif edildi.",
+	"ctm_limit": "{White}Seçim yapma {Blue}hakkınız {LightRed}kalmadı.",
+	"respawn_reset": "{Green}{0} {Silver}isimli yetkili {Default}rev hakkını {LightRed}sıfırladı!",
+	"revmenu_title": "Canlandırmak İstediğin Korumanı Seç",
+	"auto_respawn_active": "Otomatik respawn sistemi: AKTİF",
+	"auto_respawn_inactive": "Otomatik respawn sistemi: PASİF",
+	"menu_option": "{Green}{0} {Default}isimli korumanı canlandırabilmen için son {Red}{1}",
+	"auto_respawn_be_inactive": "{Green}CT Rev Menü {Default}otomatik respawn sistemi: {LightRed}pasif.",
+	"auto_respawn_be_active": "{Green}CT Rev Menü {Default}otomatik respawn sistemi: {LightRed}aktif.",
+	"player_respawn": "{Green}{0} {Default}komutçu tarafından canlandırıldı! {Red}Kalan rev hakkı {1}",
+	"respawn_for_time": "{Green}{0} {Default}korumanı canlandırabilmen için {Red}son {1} saniye.",
+	"respawn_end": "{Default}Respawn hakkı bitmiş :(",
+	"auto_respawn": "{Green}{0} {Default}otomatik olarak canlandırıldı. {Red}Kalan rev hakkı {1}",
+	"permissions": "{Default}Bu komutu sadece komutçu kullanabilir."
+}

@@ -1,0 +1,19 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"player_bet_made": "{Default}Bu round jackpot'a katıldın. {Green}{0} kredi bahis yaptın. {Purple}Kazanma ihtimali: %{1}",
+	"other_player_bet": "{Green}{0} {Default}{1} kredi - {Purple}Kazanma ihtimali: %{2}",
+	"player_bet_jackpot": "{Purple}{0} {Default}jackpot'a {1} kredi yatırdı. {Green}Kazanma ihtimali: %{2}",
+	"invalid_credit": "{Default}Kredi miktarınız yetersiz.",
+	"chat_player_win": "{Purple}{0} {Default}jackpot'u kazandı. {Green}{1} kredi - %{2} ihtimal",
+	"player_win": "{Blue}[JACKPOT] {Silver}Bahis: -{0} {Green}Geri ödenen: +{1}",
+	"player_lose": "{Blue}[JACKPOT] {Silver}Bahis: -{0} {LightRed}Geri ödenen: 0",
+	"center_player_bet": "Bahsiniz: {0} kredi.",
+	"jackpot_spin": "Jackpot döndürülüyor...",
+	"command_usage": "{Default}Komut kullanımı: !jackpot <{0} - {1}>"
+}

@@ -1,0 +1,16 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"win_round": "{Green}Oylamayı Kazanan Round: {Red}{0}",
+	"playing_round": "{Green}Oynatılan Rastgele Round: {Red}{0}",
+	"autovote_started": "Otomatik Olarak {Green}HS Round {Default}oylaması başlatıldı.",
+	"vote_started": "{Red}{0} {Green}isimli yetkili {Default}HS Round oylaması başlattı.",
+	"permissions": "{Red}Bu komutu sadece yetkili kullanabilir.",
+	"vote_title": "HS Round Oylaması",
+	"vote_gived": "{Default}Oy başarıyla verildi."
+}

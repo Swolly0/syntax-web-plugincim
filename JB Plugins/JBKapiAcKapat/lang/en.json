@@ -1,0 +1,12 @@
+{
+	//==========================
+	//        Colors
+	//==========================
+	//{Yellow} {Gold} {Silver} {Blue} {DarkBlue} {BlueGrey} {Magenta} {LightRed}
+	//{LightBlue} {Olive} {Lime} {Red} {Purple} {Grey}
+	//{Default} {White} {Darkred} {Green} {LightYellow}
+	//==========================
+	"door_open": "{Green}{0} {LightRed}!kapiac {Default}komutunu uyguladı.",
+	"door_close": "{Green}{0} {LightRed}!kapikapat {Default}komutunu uyguladı.",
+	"permissions": "Bu komutu yetkililer ve CT kullanabilir."
+}

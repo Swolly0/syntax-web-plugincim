@@ -1,0 +1,14 @@
+{
+  "resetscore.resetscore.onlyvips": "Bu komutu yalnızca VIP kullanıcılar kullanabilir!",
+  "resetscore.setscore.onlyadmins": "Bu komutu yalnızca Yetkililer kullanabilir!",
+  "resetscore.resetscore.message": "{White}Skorunuz başarıyla sıfırlandı!",
+  "resetscore.setscore.message": "{Gold}{0:s}{Default} isimli oyuncunun skoru yetkili tarafından değiştirildi!",
+  "chat_clear": "{Green}{0} {Default}sohbeti temizledi.",
+  "cek_command_used": "{Green}{0} {LightRed}!cek komutunu uyguladı.",
+  "cekt_command_used": "{Green}{0} {LightRed}!cekt komutunu uyguladı.",
+  "cekct_command_used": "{Green}{0} {LightRed}!cekct komutunu uyguladı.",
+  "cekt_min_player": "{Green}!cekt kullanabilmek için {Default}T takımında en az 2 oyuncu olmalı.",
+  "cekct_min_player": "{Green}!cekt kullanabilmek için {Default}CT takımında en az 2 oyuncu olmalı.",
+  "random_chosen": "Rastgele seçilen oyuncu: {Green}{0}",
+  "permissions": "Bu komutu sadece yetkililer kullanabilir."
+}
